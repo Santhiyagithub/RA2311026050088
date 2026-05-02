@@ -1,8 +1,0 @@
-{
-  "selectedTasks": [
-    "task1",
-    "task2"
-  ],
-  "totalImpact": 65,
-  "usedHours": 18
-}

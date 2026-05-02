@@ -7,8 +7,8 @@ async function authenticate() {
     const response = await axios.post('http://20.207.122.201/evaluation-service/auth', {
       email: "student@college.edu",
       name: "Student Name",
-      rollNo: "RA221100301001",
-      accessCode: "ACC123",
+      rollNo: "RA2311026050088",
+      accessCode: "QkbpxH",
       clientID: process.env.CLIENT_ID,
       clientSecret: process.env.CLIENT_SECRET
     });

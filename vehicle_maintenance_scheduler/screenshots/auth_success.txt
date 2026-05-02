@@ -1,5 +1,0 @@
-Authentication Successful:
-{
-  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
-}
-Saved access_token to .env file.

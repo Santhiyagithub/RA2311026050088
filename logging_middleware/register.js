@@ -7,10 +7,10 @@ async function register() {
     const response = await axios.post('http://20.207.122.201/evaluation-service/register', {
       email: "student@college.edu",
       name: "Student Name",
-      rollNo: "RA221100301001",
-      mobileNo: "1234567890",
-      githubUsername: "student123",
-      accessCode: "ACC123"
+      rollNo: "RA2311026050088",
+      mobileNo: "9876543222",
+      githubUsername: "studentRA2311026050088",
+      accessCode: "QkbpxH"
     });
 
     console.log("Registration Successful:");

@@ -1,4 +1,0 @@
-{
-  "status": "success",
-  "message": "Log entry created successfully."
-}
