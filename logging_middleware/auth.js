@@ -5,8 +5,8 @@ const fs = require('fs');
 async function authenticate() {
   try {
     const response = await axios.post('http://20.207.122.201/evaluation-service/auth', {
-      email: "student@college.edu",
-      name: "Student Name",
+      email: "sb9194@srmist.edu.in",
+      name: "Santhiya_B",
       rollNo: "RA2311026050088",
       accessCode: "QkbpxH",
       clientID: process.env.CLIENT_ID,

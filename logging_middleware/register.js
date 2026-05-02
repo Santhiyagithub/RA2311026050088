@@ -5,11 +5,11 @@ const fs = require('fs');
 async function register() {
   try {
     const response = await axios.post('http://20.207.122.201/evaluation-service/register', {
-      email: "student@college.edu",
-      name: "Student Name",
+      email: "sb9194@srmist.edu.in",
+      name: "Santhiya_B",
       rollNo: "RA2311026050088",
-      mobileNo: "9876543222",
-      githubUsername: "studentRA2311026050088",
+      mobileNo: "6381395887",
+      githubUsername: "Santhiyagithub",
       accessCode: "QkbpxH"
     });
 
